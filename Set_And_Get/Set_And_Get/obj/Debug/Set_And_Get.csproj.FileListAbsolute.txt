@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\bin\Debug\Set_And_Get.exe.config
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\bin\Debug\Set_And_Get.exe
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\bin\Debug\Set_And_Get.pdb
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\obj\Debug\Set_And_Get.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\obj\Debug\Set_And_Get.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\obj\Debug\Set_And_Get.exe
+C:\Users\52664\source\repos\Set_And_Get\Set_And_Get\obj\Debug\Set_And_Get.pdb
